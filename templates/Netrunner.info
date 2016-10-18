@@ -1,0 +1,15 @@
+ChangelogURI: http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog
+
+Suite: netrunner-1609
+RepositoryType: deb
+BaseURI: http://ds9-eu.s3-website.eu-central-1.amazonaws.com/dci/packages/
+MatchURI: ds9-eu.s3-website.eu-central-1.amazonaws.com
+Description: Netrunner 16.09
+Component: main
+CompDescription: Officially supported
+
+
+Suite: netrunner-1609-backports
+RepositoryType: deb
+ParentSuite: netrunner-1609
+Description: Backported packages
