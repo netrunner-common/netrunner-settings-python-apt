@@ -9,7 +9,7 @@ Component: main
 CompDescription: Officially supported
 
 
-Suite: netrunner-1609-backports
+Suite: jessie-backports
 RepositoryType: deb
 ParentSuite: netrunner-1609
 Description: Backported packages
