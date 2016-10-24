@@ -12,4 +12,4 @@ CompDescription: Officially supported
 Suite: jessie-backports
 RepositoryType: deb
 ParentSuite: netrunner-1609
-Description: Backported packages
+Description: Netrunner Officially backported packages
