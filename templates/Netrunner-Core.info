@@ -1,0 +1,9 @@
+ChangelogURI: http://packages.debian.org/changelogs/pool/%s/%s/%s/%s_%s/changelog
+
+Suite: buster
+RepositoryType: deb
+BaseURI: http://ds9-eu.s3-website.eu-central-1.amazonaws.com/dci/packages/
+MatchURI: ds9-eu.s3-website.eu-central-1.amazonaws.com
+Description: Netrunner Core 19.01
+Component: main
+CompDescription: Officially supported
