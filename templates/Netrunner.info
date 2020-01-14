@@ -4,6 +4,14 @@ Suite: testing
 RepositoryType: deb
 BaseURI: http://ds9-eu.s3-website.eu-central-1.amazonaws.com/dci/packages/
 MatchURI: ds9-eu.s3-website.eu-central-1.amazonaws.com
-Description: Netrunner 19.01
+Description: Netrunner 20.01
+Component: main
+CompDescription: Officially supported
+
+Suite: stable
+RepositoryType: deb
+BaseURI: http://ds9-eu.s3-website.eu-central-1.amazonaws.com/dci/packages/
+MatchURI: ds9-eu.s3-website.eu-central-1.amazonaws.com
+Description: Netrunner 20.01
 Component: main
 CompDescription: Officially supported
