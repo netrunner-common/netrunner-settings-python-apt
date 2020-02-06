@@ -7,7 +7,8 @@ Standards-Version: 3.9.8
 Homepage: https://github.com/netrunner-common/netrunner-settings-python-apt
 
 Package: netrunner-settings-python-apt
-Architecture: any
+Architecture: all
+Multi-Arch: foreign
 Depends: ${misc:Depends}
 Description: apt templates for Netrunner
  This package contains the apt templates for Netrunner
